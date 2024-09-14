@@ -1,0 +1,42 @@
+body{
+    background-color: blue;
+}
+
+.testt{
+    color: white;
+}
+
+h1{
+    color: white;
+}
+
+.anjay{
+    color: yellow;
+}
+
+h3{
+    color: green;
+    font-size: 100px;
+    font-family: Franklin Gothic Medium, 'Arial-Narrow', 'Arial', 'sans-serif';
+}
+
+.hangtuah{
+    color: brown;
+    font-size: 50px;
+    background-color: white;
+}
+
+.ryo{
+    width: 200px;
+    height: 100px;
+}
+
+.dor{
+    width: 50px;
+    height: 100px;
+}
+
+.valo{
+    width: 50%;
+    height: 50%;
+}
